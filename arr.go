@@ -9,7 +9,7 @@ func main() {
 	
 
 	a[4] = 100
-	fmt.Println("set:", a)
+	fmt.Println("set:", a) 
 	fmt.Println("get:", a[4])
 
 	fmt.Println("len:", len(a))
