@@ -7,7 +7,7 @@ func main() {
 	fmt.Println("emp:", a)             
                                          
      
-	a[4] = 100   
+	a[4] = 100    
 	fmt.Println("set:", a)   
 	fmt.Println("get:", a[4]) 
  
